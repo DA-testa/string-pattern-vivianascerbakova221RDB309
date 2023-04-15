@@ -1,4 +1,5 @@
 # python3
+# Viviāna Ščerbakova 221RDB309 3.grupa
 
 def read_input():
     # this function needs to acquire input both from keyboard and file
